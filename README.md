@@ -1,10 +1,12 @@
 # Projekt z predmetu Modelování a simulace - VUT FIT 2021/2022
 
-## Autori:
+### Autori:
 - Šimon Feňko
 - Andrej Hýroš
 
-## Okruh: Energetika a suroviny
+### Okruh: 
+- Energetika a suroviny
 
-## Hodnotenie: 20/20
+### Hodnotenie: 
+- 20/20
 
