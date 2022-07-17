@@ -10,3 +10,7 @@
 ### Hodnotenie: 
 - 20/20
 
+
+### Pozn.:
+Je potrebné rozbaliť knižnicu Eigen
+
